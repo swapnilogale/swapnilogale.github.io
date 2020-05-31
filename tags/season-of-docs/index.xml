@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>season-of-docs on Swapnil Portfolio</title>
+    <link>https://swapnilogale.github.io/tags/season-of-docs/</link>
+    <description>Recent content in season-of-docs on Swapnil Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 23:14:37 +1000</lastBuildDate>
+    
+	<atom:link href="https://swapnilogale.github.io/tags/season-of-docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geonetwork</title>
+      <link>https://swapnilogale.github.io/projects/contributions/geonetwork/</link>
+      <pubDate>Tue, 28 Apr 2020 23:14:37 +1000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/projects/contributions/geonetwork/</guid>
+      <description>Proposal My proposal for the GeoNetwork project involved providing an experienced Technical Writer&amp;rsquo;s perspective to help amplify the quality and effectiveness of some of the existing writing initiatives within the GeoNetwork project, one of the projects under the umbrella of the Open Source Geospatial Foundation (OSGeo).
+Project scope  Review GeoNetwork docs, using existing analysis provided by team: https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork Create best-practice templates that writing volunteers can use as a basis for creating new or standardising existing content.</description>
+    </item>
+    
+  </channel>
+</rss>
