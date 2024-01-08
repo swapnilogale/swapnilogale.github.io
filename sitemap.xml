@@ -10,17 +10,8 @@
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://swapnilogale.github.io/projects/creations/productblogs/</loc>
-    <lastmod>2022-01-01T21:57:42+10:00</lastmod>
-    <priority>0.7</priority>
-  </url><url>
-    <loc>https://swapnilogale.github.io/projects/creations/productdocs/</loc>
-    <lastmod>2021-08-17T21:57:42+10:00</lastmod>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://swapnilogale.github.io/projects/creations/apidocs/</loc>
-    <lastmod>2020-03-30T21:57:42+10:00</lastmod>
-    <priority>0.7</priority>
+    <loc>https://swapnilogale.github.io/projects/creations/implementationguides/</loc>
+    <priority>0.3</priority>
   </url><url>
     <loc>https://swapnilogale.github.io/publications/redoclypost/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
@@ -30,13 +21,17 @@
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://swapnilogale.github.io/projects/creations/productblogs/</loc>
+    <lastmod>2022-01-01T21:57:42+10:00</lastmod>
+    <priority>0.7</priority>
+  </url><url>
     <loc>https://swapnilogale.github.io/publications/apidays/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://swapnilogale.github.io/projects/creations/sdkdocs/</loc>
-    <lastmod>2020-04-30T21:57:42+10:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://swapnilogale.github.io/projects/creations/productdocs/</loc>
+    <lastmod>2021-08-17T21:57:42+10:00</lastmod>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://swapnilogale.github.io/publications/techcommpodcast/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
@@ -53,6 +48,10 @@
     <loc>https://swapnilogale.github.io/projects/creations/onlinehelp/</loc>
     <lastmod>2020-04-02T21:57:42+10:00</lastmod>
     <priority>0.8</priority>
+  </url><url>
+    <loc>https://swapnilogale.github.io/projects/creations/apidocs/</loc>
+    <lastmod>2020-03-30T21:57:42+10:00</lastmod>
+    <priority>0.7</priority>
   </url><url>
     <loc>https://swapnilogale.github.io/publications/makedocssustainable/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
@@ -100,6 +99,10 @@
   </url><url>
     <loc>https://swapnilogale.github.io/publications/madcapflare/</loc>
     <lastmod>2017-02-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://swapnilogale.github.io/projects/creations/sdkdocs/</loc>
+    <lastmod>2020-04-30T21:57:42+10:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://swapnilogale.github.io/tags/api/</loc>
@@ -285,6 +288,14 @@
     <loc>https://swapnilogale.github.io/tags/screenshots/</loc>
     <lastmod>2016-09-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://swapnilogale.github.io/tags/aws/</loc>
+  </url><url>
     <loc>https://swapnilogale.github.io/categories/</loc>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/help-text/</loc>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/implementation-guide/</loc>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/ui-text/</loc>
   </url>
 </urlset>

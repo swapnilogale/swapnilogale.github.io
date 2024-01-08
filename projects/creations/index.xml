@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2022 21:57:42 +1000</lastBuildDate><atom:link href="https://swapnilogale.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Solution implementation guides</title>
+      <link>https://swapnilogale.github.io/projects/creations/implementationguides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/projects/creations/implementationguides/</guid>
+      <description>Context As a Technical Writer in the AWS Solutions Engineering team in the Australia, Pacific and Japan (APJ) region, my role was to collaborate with developers and solution builders to document our solutions for our customers. One of the first solutions I documented was the Automated Data Analytics on AWS solution.
+The Automated Data Analytics on AWS solution provides an end-to-end data platform for ingesting, transforming, managing and querying datasets. This helps analysts and business users manage and gain insights from data without deep technical experience using Amazon Web Services (AWS).</description>
+    </item>
+    
+    <item>
       <title>Product marketing blogs</title>
       <link>https://swapnilogale.github.io/projects/creations/productblogs/</link>
       <pubDate>Sat, 01 Jan 2022 21:57:42 +1000</pubDate>
@@ -27,28 +37,6 @@ It was essential to let customers know frequently what we were working on and ho
       <description>Context As Redocly&amp;rsquo;s first Technical Writer Advocate, the goal of this role is to help the community of technical writers by advocating for a docs-like-code approach and offering them the skills and know-how for how to make it happen.
 Problem Redocly makes API design and documentation software with the goal to improve the writer and developer experience.
 As part of this goal, they required a Technical Writer Advocate to not only assist with writing technical content, but also needed someone to</description>
-    </item>
-    
-    <item>
-      <title>Developer Portals</title>
-      <link>https://swapnilogale.github.io/projects/creations/apidocs/</link>
-      <pubDate>Mon, 30 Mar 2020 21:57:42 +1000</pubDate>
-      
-      <guid>https://swapnilogale.github.io/projects/creations/apidocs/</guid>
-      <description>Context SEEK was refreshing its API integration products for partners and hirers.
-Problem The various SEEK teams were working on building and delivering a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team was working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.
-As part of this project, they required a Technical Writer to assist with redesigning the onboarding portal and review the developer portal content for consistency and accuracy.</description>
-    </item>
-    
-    <item>
-      <title>SDK documentation</title>
-      <link>https://swapnilogale.github.io/projects/creations/sdkdocs/</link>
-      <pubDate>Thu, 30 Apr 2020 21:57:42 +1000</pubDate>
-      
-      <guid>https://swapnilogale.github.io/projects/creations/sdkdocs/</guid>
-      <description>Context Zip simplifies how you pay everywhere and save every day by offering fast, fair and seamless payment solutions online and in-store.
-Problem I was contacted by one of the Zip development teams to assist with editing and creating content for their Zip SDK developer documentation hub.
-Contribution I collaborated with the Zip team to review their existing SDK documentation for iOS and Android devices, and make recommendations on style, voice and tone, to make it clearer to understand.</description>
     </item>
     
     <item>
@@ -73,6 +61,17 @@ Problem A niche startup, Planifi develops and delivers a suite of products to ar
     </item>
     
     <item>
+      <title>Developer Portals</title>
+      <link>https://swapnilogale.github.io/projects/creations/apidocs/</link>
+      <pubDate>Mon, 30 Mar 2020 21:57:42 +1000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/projects/creations/apidocs/</guid>
+      <description>Context SEEK was refreshing its API integration products for partners and hirers.
+Problem The various SEEK teams were working on building and delivering a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team was working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.
+As part of this project, they required a Technical Writer to assist with redesigning the onboarding portal and review the developer portal content for consistency and accuracy.</description>
+    </item>
+    
+    <item>
       <title>Process documentation and work instructions</title>
       <link>https://swapnilogale.github.io/projects/creations/processdocs/</link>
       <pubDate>Sun, 26 Apr 2020 23:47:07 +1000</pubDate>
@@ -81,6 +80,17 @@ Problem A niche startup, Planifi develops and delivers a suite of products to ar
       <description>Context NBN Co was established in 2009 to design, build and operate Australia’s wholesale broadband access network.
 I was part of NBN&amp;rsquo;s Hybrid Fibre Coaxial (HFC) Network Operations team, working with process analysts to support a large capability project across various Network teams.
 Opportunity I was asked to unofficially lead a team of technical writers working on a large documentation project creating process docs and work instructions. When we started as a group, there were no existing documents or knowledge to support process maps.</description>
+    </item>
+    
+    <item>
+      <title>SDK documentation</title>
+      <link>https://swapnilogale.github.io/projects/creations/sdkdocs/</link>
+      <pubDate>Thu, 30 Apr 2020 21:57:42 +1000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/projects/creations/sdkdocs/</guid>
+      <description>Context Zip simplifies how you pay everywhere and save every day by offering fast, fair and seamless payment solutions online and in-store.
+Problem I was contacted by one of the Zip development teams to assist with editing and creating content for their Zip SDK developer documentation hub.
+Contribution I collaborated with the Zip team to review their existing SDK documentation for iOS and Android devices, and make recommendations on style, voice and tone, to make it clearer to understand.</description>
     </item>
     
   </channel>

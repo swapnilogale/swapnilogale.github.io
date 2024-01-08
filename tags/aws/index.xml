@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Swapnil Portfolio</title>
+    <link>https://swapnilogale.github.io/tags/aws/</link>
+    <description>Recent content in AWS on Swapnil Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://swapnilogale.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solution implementation guides</title>
+      <link>https://swapnilogale.github.io/projects/creations/implementationguides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/projects/creations/implementationguides/</guid>
+      <description>Context As a Technical Writer in the AWS Solutions Engineering team in the Australia, Pacific and Japan (APJ) region, my role was to collaborate with developers and solution builders to document our solutions for our customers. One of the first solutions I documented was the Automated Data Analytics on AWS solution.
+The Automated Data Analytics on AWS solution provides an end-to-end data platform for ingesting, transforming, managing and querying datasets. This helps analysts and business users manage and gain insights from data without deep technical experience using Amazon Web Services (AWS).</description>
+    </item>
+    
+  </channel>
+</rss>
