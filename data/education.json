@@ -1,0 +1,26 @@
+[
+    {
+        "school":"Swinburne University of Technology",
+        "degree":"Graduate Diploma",
+        "major":"Social Sciences, Technical Communications",
+        "range":"2005 - 2006"
+    },
+    {
+        "school":"Victoria University of Technology",
+        "degree":"Masters of Business",
+        "major":"Information Systems",
+        "range":"2002 - 2003"
+    },
+    {
+        "school":"IMCC",
+        "degree":"Post Graduation",
+        "major":"Masters of Computer Applications - Part 1",
+        "range":"2001 - 2002"
+    },
+    {
+        "school":"Fergusson College",
+        "degree":"Bachelor of Science",
+        "major":"Electronic Sciences",
+        "range":"1998 - 2001"
+    }
+]

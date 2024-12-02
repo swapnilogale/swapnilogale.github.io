@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>season-of-docs on Swapnil Ogale Portfolio</title>
+    <title>Season-of-Docs on Swapnil Ogale Portfolio</title>
     <link>https://swapnilogale.github.io/tags/season-of-docs/</link>
-    <description>Recent content in season-of-docs on Swapnil Ogale Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Season-of-Docs on Swapnil Ogale Portfolio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/tags/season-of-docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/tags/season-of-docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Redocly - Google Season of Docs</title>
+      <title>Redocly (Google Season of Docs) - Management and mentoring</title>
       <link>https://swapnilogale.github.io/projects/contributions/redoclyoss/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/contributions/redoclyoss/</guid>
-      <description>Summary When Google announced the Season of Docs 2021, I led Redocly&amp;rsquo;s effort on submitting a proposal for our open source projects, Redoc and OpenAPI cli. The proposal was accepted by Google, and we hired two technical writers to work on our products.
-I managed the administrative part of the project on behalf of Redocly, and also assisted and mentored technical writers contributing to our open source documentation.
-Our project had a successful outcome which I captured in our case study.</description>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;When Google announced the Season of Docs 2021, I led Redocly&amp;rsquo;s effort on submitting a &lt;a href=&#34;https://redoc.ly/gsod/&#34;&gt;proposal&lt;/a&gt; for our open source projects, Redoc and OpenAPI cli. The proposal was accepted by Google, and we hired two technical writers to work on our products.&lt;/p&gt;&#xA;&lt;p&gt;I managed the administrative part of the project on behalf of Redocly, and also assisted and mentored technical writers contributing to our open source documentation.&lt;/p&gt;&#xA;&lt;p&gt;Our project had a successful outcome which I captured in our &lt;a href=&#34;https://redoc.ly/gsod-casestudy/&#34;&gt;case study&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geonetwork</title>
       <link>https://swapnilogale.github.io/projects/contributions/geonetwork/</link>
       <pubDate>Tue, 28 Apr 2020 23:14:37 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/contributions/geonetwork/</guid>
-      <description>Proposal My proposal for the GeoNetwork project involved providing an experienced Technical Writer&amp;rsquo;s perspective to help amplify the quality and effectiveness of some of the existing writing initiatives within the GeoNetwork project, one of the projects under the umbrella of the Open Source Geospatial Foundation (OSGeo).
-Project scope  Review GeoNetwork docs, using existing analysis provided by team: https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork Create best-practice templates that writing volunteers can use as a basis for creating new or standardising existing content.</description>
+      <description>&lt;h3 id=&#34;proposal&#34;&gt;Proposal&lt;/h3&gt;&#xA;&lt;p&gt;My proposal for the GeoNetwork project involved providing an experienced Technical Writer&amp;rsquo;s perspective to help amplify the quality and effectiveness of some of the existing writing initiatives within the GeoNetwork project, one of the projects under the umbrella of the Open Source Geospatial Foundation (OSGeo).&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-scope&#34;&gt;Project scope&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review GeoNetwork docs, using existing analysis provided by team: &lt;a href=&#34;https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork&#34;&gt;https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Create best-practice templates that writing volunteers can use as a basis for creating new or standardising existing content.&lt;/li&gt;&#xA;&lt;li&gt;Provide tech writing advice around structure and style to existing writing volunteers.&lt;/li&gt;&#xA;&lt;li&gt;Review and refine existing and emerging content for good documentation practices.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;key-learnings-and-deliverables&#34;&gt;Key learnings and deliverables&lt;/h3&gt;&#xA;&lt;p&gt;This was my first contribution to an open source project of this nature and it came with a lot of learnings.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

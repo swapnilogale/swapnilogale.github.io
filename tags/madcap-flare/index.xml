@@ -4,19 +4,16 @@
     <title>Madcap Flare on Swapnil Ogale Portfolio</title>
     <link>https://swapnilogale.github.io/tags/madcap-flare/</link>
     <description>Recent content in Madcap Flare on Swapnil Ogale Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/tags/madcap-flare/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/tags/madcap-flare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Justifying the use of Single Sourcing</title>
       <link>https://swapnilogale.github.io/publications/madcapflare/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/madcapflare/</guid>
-      <description>I was invited by Madcap Software to write a guest post for their blog. I wrote about a case study where I had to justify the use of single sourcing at the organisation I was working at the time.
-To summarise how the single sourcing strategy worked at the organisation was:
- Avoided issues with duplication of content. All my content resided in one location, reducing inconsistencies. Set a consistent look and feel across all the documentation projects.</description>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://www.madcapsoftware.com/&#34;&gt;Madcap Software&lt;/a&gt; to write a guest post for their blog. I wrote about a case study where I had to justify the use of single sourcing at the organisation I was working at the time.&lt;/p&gt;&#xA;&lt;p&gt;To summarise how the single sourcing strategy worked at the organisation was:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Avoided issues with duplication of content. All my content resided in one location, reducing inconsistencies.&lt;/li&gt;&#xA;&lt;li&gt;Set a consistent look and feel across all the documentation projects.&lt;/li&gt;&#xA;&lt;li&gt;Was published for different audiences with different information requirements.&lt;/li&gt;&#xA;&lt;li&gt;Allowed me to adapt quickly to changing requirements or ad-hoc requests.&lt;/li&gt;&#xA;&lt;li&gt;Had complete control over content as well as output format and design.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,98 @@
+[
+    {
+        "role":"Technical Writer",
+        "company":"Amazon Web Services",
+        "summary":"Collaborate with, and support the AWS APJ (Asia Pacific & Japan) Solutions Engineering team, for creating and maintaining customer-facing technical documentation for customisable solutions. \n Review and write implementation guides, solution artifacts, and code documentation.",
+        "range":"Apr 2022 - Current"
+    },
+    {
+        "role":"Mentor",
+        "company":"ADPList",
+        "summary":"Mentor aspiring and transitioning technical writers through the ADPList platform.",
+        "range":"Mar 2022 - Current"
+    },
+    {
+        "role":"Technical Writer Advocate",
+        "company":"Redocly",
+        "summary":"Help the documentation community by advocating for a docs-like-code approach and offering them the skills and know-how to make it happen. Managing open-source documentation program as part of Google Season of Docs.",
+        "range":"Nov 2020 - Apr 2022"
+    },
+    {
+        "role":"Senior Technical Writer (Contract)",
+        "company":"Australian Energy Market Operator (AEMO)",
+        "summary":"Planned, designed and created online documentation for AEMO internal and external portals across gas and electricity market applications.",
+        "range":"June 2020 - Oct 2020"
+    },
+    {
+        "role":"Senior Technical Writer (Contract)",
+        "company":"SEEK",
+        "summary":"Set up content design for onboarding and developer platforms. Created API documentation for recruitment partners and developers.",
+        "range":"Feb 2020 - May 2020"
+    },
+    {
+        "role":"Senior Technical Writer (Contract)",
+        "company":"Australian Energy Market Operator (AEMO)",
+        "summary":"Developed and managed product and technical documentation including API content for developer portal and B2B users.",
+        "range":"Jul 2018 - Feb 2020"
+    },
+    {
+        "role":"Technical Writer (Contract)",
+        "company":"Aconex",
+        "summary":"Documented processes, procedures and other content for FedRAMP security project.",
+        "range":"Mar 2018 - Jul 2018"
+    },
+    {
+        "role":"Lead Technical Writer (Contract)",
+        "company":"National Broadband Network (NBN)",
+        "summary":"Led a technical writing team documenting business processes for network operations and performance teams.",
+        "range":"Aug 2015 - Mar 2018"
+    },
+    {
+        "role":"Technical Writer",
+        "company":"Starrez",
+        "summary":"Created product content (Help, Release Notes, Feature Guides) for a student housing software",
+        "range":"Jan 2014 - Jul 2015"
+    },
+    {
+        "role":"Technical Writer (Contract)",
+        "company":"Melbourne Health",
+        "summary":"Worked with data warehouse development team to plan and deliver developer guides and reference material.",
+        "range":"Apr 2013 - Jan 2014"
+    },
+    {
+        "role":"Team Lead Technical Writer (Contract)",
+        "company":"CitPower and Powercor",
+        "summary":"Led and mentored 2 technical writers working on a Smart Metering project.",
+        "range":"Apr 2012 - Mar 2013"
+    },
+    {
+        "role":"Technical Writer (Contract)",
+        "company":"Victoria University",
+        "summary":"Planned and created process documentation for a student management system implementation.",
+        "range":"Dec 2011 - Jan 2012"
+    },
+    {
+        "role":"National Procedures Officer (Contract)",
+        "company":"MEGT",
+        "summary":"Scoped, designed and created a National Procedures Manual.",
+        "range":"May 2011 - Dec 2011"
+    },
+    {
+        "role":"Documentation Specialist (Contract)",
+        "company":"TP3",
+        "summary":"User content, Process documentation, Policy writing, Information Architecture projects for Australia Post, Alex Fraser Group, ANZ, Toyota Australia, DownerEDI Works, Elders Australia, BUPA.",
+        "range":"Mar 2010 - Mar 2011"
+    },
+    {
+        "role":"Technical Writer",
+        "company":"Computershare",
+        "summary":"Created online help (HTML and Web) for share registry desktop and web applications.",
+        "range":"Nov 2007 - Feb 2010"
+    },
+    {
+        "role":"Technical Writer",
+        "company":"Kestral",
+        "summary":"Developed context-sensitive online help for a radiology information system.",
+        "range":"Sept 2006 - Oct 2007"
+    }
+]

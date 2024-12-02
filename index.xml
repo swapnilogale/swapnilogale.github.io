@@ -4,269 +4,184 @@
     <title>Home on Swapnil Ogale Portfolio</title>
     <link>https://swapnilogale.github.io/</link>
     <description>Recent content in Home on Swapnil Ogale Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://swapnilogale.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solution implementation guides</title>
       <link>https://swapnilogale.github.io/projects/creations/implementationguides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/implementationguides/</guid>
-      <description>Context As a Technical Writer in the AWS Solutions Engineering team in the Australia, Pacific and Japan (APJ) region, my role was to collaborate with developers and solution builders to document our solutions for our customers. One of the first solutions I documented was the Automated Data Analytics on AWS solution.
-The Automated Data Analytics on AWS solution provides an end-to-end data platform for ingesting, transforming, managing and querying datasets. This helps analysts and business users manage and gain insights from data without deep technical experience using Amazon Web Services (AWS).</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a Technical Writer in the AWS Solutions Engineering team in the Australia, Pacific and Japan (APJ) region, my role was to collaborate with developers and solution builders to document our solutions for our customers. One of the first solutions I documented was the Automated Data Analytics on AWS solution.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://aws.amazon.com/solutions/implementations/automated-data-analytics-on-aws/&#34;&gt;Automated Data Analytics on AWS&lt;/a&gt; solution provides an end-to-end data platform for ingesting, transforming, managing and querying datasets. This helps analysts and business users manage and gain insights from data without deep technical experience using Amazon Web Services (AWS).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Technical Writing Process, 2nd Edition</title>
       <link>https://swapnilogale.github.io/publications/techwritingbook/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/techwritingbook/</guid>
-      <description>Working alongside a team of stellar technical communication specialists, I was the lead writer on the Design chapters for the 2nd edition of the Technical Writing Process book.
-My chapters focussed on the use of stylesheets in document design, and importance of using visuals like screenshots and diagrams in technical documentation.
-Buy the Technical Writing Process (2nd Edition) today and master the craft of technical writing.
- Paperback: Technical Writing Process (2024, 2nd Ed.</description>
+      <description>&lt;p&gt;Working alongside a team of stellar technical communication specialists, I was the lead writer on the Design chapters for the 2nd edition of the Technical Writing Process book.&lt;/p&gt;&#xA;&lt;p&gt;My chapters focussed on the use of stylesheets in document design, and importance of using visuals like screenshots and diagrams in technical documentation.&lt;/p&gt;&#xA;&lt;p&gt;Buy the Technical Writing Process (2nd Edition) today and master the craft of technical writing.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Paperback: &lt;a href=&#34;https://www.amazon.com/Technical-Writing-Process-Timeless-Techniques/dp/0994169329/&#34;&gt;Technical Writing Process (2024, 2nd Ed.) Paperback&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;e-Book: &lt;a href=&#34;https://www.amazon.com/Technical-Writing-Process-Timeless-Techniques-ebook/dp/B0CV2SKBCG/&#34;&gt;Technical Writing Process (2024, 2nd Ed.) e-Book&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Redocly for technical writers</title>
       <link>https://swapnilogale.github.io/publications/redoclypost/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/redoclypost/</guid>
-      <description>As part of my Technical Writer Advocate role at Redocly, I was often asked by other technical writers in the community about they could use Redocly for their API documentation.
-I wrote about my experiences with Redocly, and how other technical writers could get started with Redocly products to create awesome API documentation. This article captures the workflow for technical writers wanting to get the best out of Redocly products.</description>
+      <description>&lt;p&gt;As part of my Technical Writer Advocate role at Redocly, I was often asked by other technical writers in the community about they could use Redocly for their API documentation.&lt;/p&gt;&#xA;&lt;p&gt;I wrote about my experiences with Redocly, and how other technical writers could get started with Redocly products to create awesome API documentation. This article captures the workflow for technical writers wanting to get the best out of Redocly products.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Embrace Discomfort and Challenge the Status Quo for Advocacy and Visibility</title>
       <link>https://swapnilogale.github.io/publications/insidetechcomm/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/insidetechcomm/</guid>
-      <description>I chatted with the host of Inside TechComm about:
- What does the technical communication landscape look like in Australia? What is a technical writer advocate? How did Swapnil perform his own tech comm retrospective to elevate his role and make it visible? What is the Amazon narrative, and how can someone use this narrative before starting a project? What are some strategies to raise the profile of a tech writer at a company and beyond?</description>
+      <description>&lt;p&gt;I chatted with the host of Inside TechComm about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What does the technical communication landscape look like in Australia?&lt;/li&gt;&#xA;&lt;li&gt;What is a technical writer advocate?&lt;/li&gt;&#xA;&lt;li&gt;How did Swapnil perform his own tech comm retrospective to elevate his role and make it visible?&lt;/li&gt;&#xA;&lt;li&gt;What is the Amazon narrative, and how can someone use this narrative before starting a project?&lt;/li&gt;&#xA;&lt;li&gt;What are some strategies to raise the profile of a tech writer at a company and beyond?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Product marketing blogs</title>
       <link>https://swapnilogale.github.io/projects/creations/productblogs/</link>
       <pubDate>Sat, 01 Jan 2022 21:57:42 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/productblogs/</guid>
-      <description>Context Providing Redocly customers with a monthly update on new features been rolled out across its products.
-Problem When I started at Redocly, a lot of customers were sometimes unaware of various features been rolled out across our products. The only way they could find this out was by contacting technical support.
-It was essential to let customers know frequently what we were working on and how it would enhance their developer experience.</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;Providing Redocly customers with a monthly update on new features been rolled out across its products.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;When I started at Redocly, a lot of customers were sometimes unaware of various features been rolled out across our products. The only way they could find this out was by contacting technical support.&lt;/p&gt;&#xA;&lt;p&gt;It was essential to let customers know frequently what we were working on and how it would enhance their developer experience.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The secret sauce behind successful APIs</title>
       <link>https://swapnilogale.github.io/publications/apidays/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/apidays/</guid>
-      <description>In this talk, I spoke about the secret sauce behind successful APIs - documentation. This talk covered:
- Problem areas with API projects from experience, An API&amp;rsquo;s journey from a producer as well as the consumer perspectives, and How to use documentation along each step of the API lifecycle.  </description>
+      <description>&lt;p&gt;In this talk, I spoke about the secret sauce behind successful APIs - documentation. This talk covered:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Problem areas with API projects from experience,&lt;/li&gt;&#xA;&lt;li&gt;An API&amp;rsquo;s journey from a producer as well as the consumer perspectives, and&lt;/li&gt;&#xA;&lt;li&gt;How to use documentation along each step of the API lifecycle.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Product documentation, Information architecture, Content strategy</title>
       <link>https://swapnilogale.github.io/projects/creations/productdocs/</link>
       <pubDate>Tue, 17 Aug 2021 21:57:42 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/productdocs/</guid>
-      <description>Context As Redocly&amp;rsquo;s first Technical Writer Advocate, the goal of this role is to help the community of technical writers by advocating for a docs-like-code approach and offering them the skills and know-how for how to make it happen.
-Problem Redocly makes API design and documentation software with the goal to improve the writer and developer experience.
-As part of this goal, they required a Technical Writer Advocate to not only assist with writing technical content, but also needed someone to</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As Redocly&amp;rsquo;s first Technical Writer Advocate, the goal of this role is to help the community of technical writers by advocating for a docs-like-code approach and offering them the skills and know-how for how to make it happen.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;Redocly makes API design and documentation software with the goal to improve the writer and developer experience.&lt;/p&gt;&#xA;&lt;p&gt;As part of this goal, they required a &lt;strong&gt;Technical Writer Advocate&lt;/strong&gt; to not only assist with writing technical content, but also needed someone to&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tech Writer Advocacy and Managing Write the Docs Australia</title>
       <link>https://swapnilogale.github.io/publications/techcommpodcast/</link>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/techcommpodcast/</guid>
-      <description>I chatted with the host of The Not Boring Tech Writer about:
- The Write the Docs Australia community Organising meetups and conference for the Write the Docs Australia community Why it is necessary to advocate for good documentation practices What my role as a Technical Writer Advocate is all about  </description>
+      <description>&lt;p&gt;I chatted with the host of The Not Boring Tech Writer about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Write the Docs Australia community&lt;/li&gt;&#xA;&lt;li&gt;Organising meetups and conference for the Write the Docs Australia community&lt;/li&gt;&#xA;&lt;li&gt;Why it is necessary to advocate for good documentation practices&lt;/li&gt;&#xA;&lt;li&gt;What my role as a Technical Writer Advocate is all about&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Technical specifications and API documentation</title>
       <link>https://swapnilogale.github.io/projects/creations/techspecs/</link>
       <pubDate>Sun, 26 Apr 2020 22:33:28 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/techspecs/</guid>
-      <description>Context The role of Australian Energy Market Operator (AEMO) is to manage the electricity and gas systems and markets across Australia, helping to ensure Australians have access to affordable, secure and reliable energy.
-I was part of AEMO&amp;rsquo;s distributed energy initiatives and a market trial project, working with multiple teams to document a range of content for different audiences.
-Opportunity I was assigned to manage the entire suite of documentation, for two Australia-wide distributed energy initiatives documenting technical specifications, API design, user guides, and reference documentation.</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;The role of Australian Energy Market Operator (AEMO) is to manage the electricity and gas systems and markets across Australia, helping to ensure Australians have access to affordable, secure and reliable energy.&lt;/p&gt;&#xA;&lt;p&gt;I was part of AEMO&amp;rsquo;s distributed energy initiatives and a market trial project, working with multiple teams to document a range of content for different audiences.&lt;/p&gt;&#xA;&lt;h3 id=&#34;opportunity&#34;&gt;Opportunity&lt;/h3&gt;&#xA;&lt;p&gt;I was assigned to manage the entire suite of documentation, for two Australia-wide distributed energy initiatives documenting technical specifications, API design, user guides, and reference documentation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Putting the tech in technical writer</title>
       <link>https://swapnilogale.github.io/publications/techwriter/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/techwriter/</guid>
-      <description>I take the audience through a few ideas and examples (both personal and community sourced) for:
- Looking under the hood (of WYSIWYG tools), Learning just enough Git, Thinking in plain text, Templates, toolchain and processes, and Automation.</description>
+      <description>&lt;p&gt;I take the audience through a few ideas and examples (both personal and community sourced) for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Looking under the hood (of WYSIWYG tools),&lt;/li&gt;&#xA;&lt;li&gt;Learning just enough Git,&lt;/li&gt;&#xA;&lt;li&gt;Thinking in plain text,&lt;/li&gt;&#xA;&lt;li&gt;Templates, toolchain and processes, and&lt;/li&gt;&#xA;&lt;li&gt;Automation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FQ7DkPOw3Cc&#34;&gt;&lt;img src=&#34;https://swapnilogale.github.io/img/tw-video.jpg&#34; alt=&#34;Putting the tech in technical writer&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Online Help</title>
       <link>https://swapnilogale.github.io/projects/creations/onlinehelp/</link>
       <pubDate>Thu, 02 Apr 2020 21:57:42 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/onlinehelp/</guid>
-      <description>Context Planifi helps lean organisations do more with less: increase productivity, decrease wasted resource hours, and deliver visibility into project performance across your entire firm.
-Problem A niche startup, Planifi develops and delivers a suite of products to architecture and engineering firms to manage their projects, schedules, resources and forecasting. While they were developing their product, they needed a Technical Writer to create end user documentation that could be used by Training and Support teams.</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.planifi.net/&#34;&gt;Planifi&lt;/a&gt; helps lean organisations do more with less: increase productivity, decrease wasted resource hours, and deliver visibility into project performance across your entire firm.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;A niche startup, Planifi develops and delivers a suite of products to architecture and engineering firms to manage their projects, schedules, resources and forecasting. While they were developing their product, they needed a Technical Writer to create end user documentation that could be used by Training and Support teams.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Developer Portals</title>
       <link>https://swapnilogale.github.io/projects/creations/apidocs/</link>
       <pubDate>Mon, 30 Mar 2020 21:57:42 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/apidocs/</guid>
-      <description>Context SEEK was refreshing its API integration products for partners and hirers.
-Problem The various SEEK teams were working on building and delivering a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team was working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.
-As part of this project, they required a Technical Writer to assist with redesigning the onboarding portal and review the developer portal content for consistency and accuracy.</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;SEEK was refreshing its API integration products for partners and hirers.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;The various SEEK teams were working on building and delivering a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team was working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.&lt;/p&gt;&#xA;&lt;p&gt;As part of this project, they required a &lt;strong&gt;Technical Writer&lt;/strong&gt; to assist with redesigning the onboarding portal and review the developer portal content for consistency and accuracy. They also needed someone to refresh the site taxonomy &amp;amp; information architecture.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Making content sustainable</title>
       <link>https://swapnilogale.github.io/publications/makedocssustainable/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/makedocssustainable/</guid>
-      <description>In this talk, I question how to make our content sustainable, especially now when our content is growing at an unprecedented rate. Just when we thought we had a handle on user needs, that seems to be changing every minute. What does it really mean to create sustainable content and how do we achieve this?
- Docs and processes are a mess, but they don’t have to be. Reuse. Reduce. Recycle.</description>
+      <description>&lt;p&gt;In this talk, I question how to make our content sustainable, especially now when our content is growing at an unprecedented rate. Just when we thought we had a handle on user needs, that seems to be changing every minute. What does it really mean to create sustainable content and how do we achieve this?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docs and processes are a mess, but they don’t have to be.&lt;/li&gt;&#xA;&lt;li&gt;Reuse. Reduce. Recycle.&lt;/li&gt;&#xA;&lt;li&gt;Think content first.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>What&#39;s the deal with Release notes?</title>
       <link>https://swapnilogale.github.io/publications/releasenotes/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/releasenotes/</guid>
-      <description>Product managers swear by them, development managers are keen on producing them and quite so often your developers or engineers will help (grudgingly) craft them.
-Release notes are everywhere, be it a product or a process. They are quite often your first point of communication with customers eager to know what’s new or fixed in your product or process. In some instances, they also become the most frequently or commonly accessed content on your documentation site.</description>
+      <description>&lt;p&gt;Product managers swear by them, development managers are keen on producing them and quite so often your developers or engineers will help (grudgingly) craft them.&lt;/p&gt;&#xA;&lt;p&gt;Release notes are everywhere, be it a product or a process. They are quite often your first point of communication with customers eager to know what’s new or fixed in your product or process. In some instances, they also become the most frequently or commonly accessed content on your documentation site.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>When bad screenshots happen to good writers</title>
       <link>https://swapnilogale.github.io/publications/screenshots/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/screenshots/</guid>
-      <description>&amp;ldquo;You have your content moving at a swift pace, your documents are getting reviewed in a timely fashion (surprise!) and you are nicely heading towards your release milestone.
-The only thing missing are some key screenshots that you need to put in before you publish your documentation. What you get instead are some hideous images posing as screenshots, that were captured randomly, bears no resemblance to your instructions and would make no sense whatsoever to the end user.</description>
+      <description>&lt;p&gt;&amp;ldquo;You have your content moving at a swift pace, your documents are getting reviewed in a timely fashion (surprise!) and you are nicely heading towards your release milestone.&lt;/p&gt;&#xA;&lt;p&gt;The only thing missing are some key screenshots that you need to put in before you publish your documentation. What you get instead are some hideous images posing as screenshots, that were captured randomly, bears no resemblance to your instructions and would make no sense whatsoever to the end user.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Redocly - Google Season of Docs</title>
+      <title>Redocly (Google Season of Docs) - Management and mentoring</title>
       <link>https://swapnilogale.github.io/projects/contributions/redoclyoss/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/contributions/redoclyoss/</guid>
-      <description>Summary When Google announced the Season of Docs 2021, I led Redocly&amp;rsquo;s effort on submitting a proposal for our open source projects, Redoc and OpenAPI cli. The proposal was accepted by Google, and we hired two technical writers to work on our products.
-I managed the administrative part of the project on behalf of Redocly, and also assisted and mentored technical writers contributing to our open source documentation.
-Our project had a successful outcome which I captured in our case study.</description>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;When Google announced the Season of Docs 2021, I led Redocly&amp;rsquo;s effort on submitting a &lt;a href=&#34;https://redoc.ly/gsod/&#34;&gt;proposal&lt;/a&gt; for our open source projects, Redoc and OpenAPI cli. The proposal was accepted by Google, and we hired two technical writers to work on our products.&lt;/p&gt;&#xA;&lt;p&gt;I managed the administrative part of the project on behalf of Redocly, and also assisted and mentored technical writers contributing to our open source documentation.&lt;/p&gt;&#xA;&lt;p&gt;Our project had a successful outcome which I captured in our &lt;a href=&#34;https://redoc.ly/gsod-casestudy/&#34;&gt;case study&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Art of the Review</title>
       <link>https://swapnilogale.github.io/publications/reviewpost/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/reviewpost/</guid>
-      <description>I was invited by KnowledgeOwl to write a guest post for their blog.
-I wrote about why proper reviews are vital to the documentation process, how to plan for them, various kinds of reviews, and how to provide to feedback (if you are the one reviewing someone else&amp;rsquo;s docs!).</description>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://www.knowledgeowl.com/&#34;&gt;KnowledgeOwl&lt;/a&gt; to write a guest post for their blog.&lt;/p&gt;&#xA;&lt;p&gt;I wrote about why proper reviews are vital to the documentation process, how to plan for them, various kinds of reviews, and how to provide to feedback (if you are the one reviewing someone else&amp;rsquo;s docs!).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How API docs became my silver lining</title>
       <link>https://swapnilogale.github.io/publications/apipost/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/apipost/</guid>
-      <description>I was invited by KnowledgeOwl to write a guest post for their blog.
-I wrote about my experiences with starting with API documentation, growing my skills in this area and how API documentation offers an exciting and challenging space for technical writers.</description>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://www.knowledgeowl.com/&#34;&gt;KnowledgeOwl&lt;/a&gt; to write a guest post for their blog.&lt;/p&gt;&#xA;&lt;p&gt;I wrote about my experiences with starting with API documentation, growing my skills in this area and how API documentation offers an exciting and challenging space for technical writers.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Write the Docs Australia</title>
+      <title>Write the Docs Australia - Community management</title>
       <link>https://swapnilogale.github.io/projects/contributions/wtd/</link>
       <pubDate>Sun, 03 May 2020 12:25:06 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/contributions/wtd/</guid>
-      <description>Context Write the Docs is a global community of people who care about documentation. We consider everyone who cares about communication, documentation, and their users to be a member of our community. This can be programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.
-Contribution While we have had other communities in Australia that covered technical documentation sporadically, there was no community for like- minded people to get together and talk about documentation issues.</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.writethedocs.org/&#34;&gt;Write the Docs&lt;/a&gt; is a global community of people who care about documentation. We consider everyone who cares about communication, documentation, and their users to be a member of our community. This can be programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contribution&#34;&gt;Contribution&lt;/h3&gt;&#xA;&lt;p&gt;While we have had other communities in Australia that covered technical documentation sporadically, there was no community for like- minded people to get together and talk about documentation issues. I have been part of other groups that organised technical writing events and conferences in the past, but in 2016, none of these groups existed and there was a serious gap in community events.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geonetwork</title>
       <link>https://swapnilogale.github.io/projects/contributions/geonetwork/</link>
       <pubDate>Tue, 28 Apr 2020 23:14:37 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/contributions/geonetwork/</guid>
-      <description>Proposal My proposal for the GeoNetwork project involved providing an experienced Technical Writer&amp;rsquo;s perspective to help amplify the quality and effectiveness of some of the existing writing initiatives within the GeoNetwork project, one of the projects under the umbrella of the Open Source Geospatial Foundation (OSGeo).
-Project scope  Review GeoNetwork docs, using existing analysis provided by team: https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork Create best-practice templates that writing volunteers can use as a basis for creating new or standardising existing content.</description>
+      <description>&lt;h3 id=&#34;proposal&#34;&gt;Proposal&lt;/h3&gt;&#xA;&lt;p&gt;My proposal for the GeoNetwork project involved providing an experienced Technical Writer&amp;rsquo;s perspective to help amplify the quality and effectiveness of some of the existing writing initiatives within the GeoNetwork project, one of the projects under the umbrella of the Open Source Geospatial Foundation (OSGeo).&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-scope&#34;&gt;Project scope&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review GeoNetwork docs, using existing analysis provided by team: &lt;a href=&#34;https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork&#34;&gt;https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Create best-practice templates that writing volunteers can use as a basis for creating new or standardising existing content.&lt;/li&gt;&#xA;&lt;li&gt;Provide tech writing advice around structure and style to existing writing volunteers.&lt;/li&gt;&#xA;&lt;li&gt;Review and refine existing and emerging content for good documentation practices.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;key-learnings-and-deliverables&#34;&gt;Key learnings and deliverables&lt;/h3&gt;&#xA;&lt;p&gt;This was my first contribution to an open source project of this nature and it came with a lot of learnings.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Process documentation and work instructions</title>
       <link>https://swapnilogale.github.io/projects/creations/processdocs/</link>
       <pubDate>Sun, 26 Apr 2020 23:47:07 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/processdocs/</guid>
-      <description>Context NBN Co was established in 2009 to design, build and operate Australia’s wholesale broadband access network.
-I was part of NBN&amp;rsquo;s Hybrid Fibre Coaxial (HFC) Network Operations team, working with process analysts to support a large capability project across various Network teams.
-Opportunity I was asked to unofficially lead a team of technical writers working on a large documentation project creating process docs and work instructions. When we started as a group, there were no existing documents or knowledge to support process maps.</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;NBN Co was established in 2009 to design, build and operate Australia’s wholesale broadband access network.&lt;/p&gt;&#xA;&lt;p&gt;I was part of NBN&amp;rsquo;s Hybrid Fibre Coaxial (HFC) Network Operations team, working with process analysts to support a large capability project across various Network teams.&lt;/p&gt;&#xA;&lt;h3 id=&#34;opportunity&#34;&gt;Opportunity&lt;/h3&gt;&#xA;&lt;p&gt;I was asked to unofficially lead a team of technical writers working on a large documentation project creating process docs and work instructions.&#xA;When we started as a group, there were no existing documents or knowledge to support process maps. Over a span of 18 months, we built a knowledge base of over 150 individual documents, supporting process maps and decisions across Change, Performance, Network and Service Incidents.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Kubeflow</title>
+      <title>Kubeflow - Documentation sprint</title>
       <link>https://swapnilogale.github.io/projects/contributions/kubeflow/</link>
       <pubDate>Mon, 13 Jan 2020 23:33:43 +1100</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/contributions/kubeflow/</guid>
-      <description>Context Google Kubeflow team organised a Kubeflow doc sprint in July 2019. A doc sprint is like a hackathon for docs. Over the course of three days, participants developed tutorials and fixed documentation bugs.
-Participation I participated on Day 2 and helped document an overview topic on using Jupyter notebooks in Kubeflow.
-Links Github PR: https://github.com/kubeflow/website/pull/914</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;Google Kubeflow team organised a Kubeflow doc sprint in July 2019. A doc sprint is like a hackathon for docs. Over the course of three days, participants developed tutorials and fixed documentation bugs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;participation&#34;&gt;Participation&lt;/h3&gt;&#xA;&lt;p&gt;I participated on Day 2 and helped document an overview topic on &lt;a href=&#34;https://www.kubeflow.org/docs/notebooks/why-use-jupyter-notebook/&#34;&gt;using Jupyter notebooks in Kubeflow&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;&#xA;&lt;p&gt;Github PR: &lt;a href=&#34;https://github.com/kubeflow/website/pull/914&#34;&gt;https://github.com/kubeflow/website/pull/914&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Write the Docs Podcast</title>
       <link>https://swapnilogale.github.io/publications/wtdpodcast/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/wtdpodcast/</guid>
-      <description>I chatted with the Write the Docs podcast team about:
- The Write the Docs Australian conference more wind-downs and ramp-ups, Highlights from the just-finished WTD Prague conference, Speakers announced for upcoming Write the Docs Australia conference, The Good Docs Project, The tech writing scene in Australia</description>
+      <description>&lt;p&gt;I chatted with the Write the Docs podcast team about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Write the Docs Australian conference more wind-downs and ramp-ups,&lt;/li&gt;&#xA;&lt;li&gt;Highlights from the just-finished WTD Prague conference,&lt;/li&gt;&#xA;&lt;li&gt;Speakers announced for upcoming Write the Docs Australia conference,&lt;/li&gt;&#xA;&lt;li&gt;The Good Docs Project,&lt;/li&gt;&#xA;&lt;li&gt;The tech writing scene in Australia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/Qh1nlOluy1E&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/Qh1nlOluy1E/0.jpg&#34; alt=&#34;Conference chatter and the Australian scene, with Swapnil Ogale&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Justifying the use of Single Sourcing</title>
       <link>https://swapnilogale.github.io/publications/madcapflare/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/madcapflare/</guid>
-      <description>I was invited by Madcap Software to write a guest post for their blog. I wrote about a case study where I had to justify the use of single sourcing at the organisation I was working at the time.
-To summarise how the single sourcing strategy worked at the organisation was:
- Avoided issues with duplication of content. All my content resided in one location, reducing inconsistencies. Set a consistent look and feel across all the documentation projects.</description>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://www.madcapsoftware.com/&#34;&gt;Madcap Software&lt;/a&gt; to write a guest post for their blog. I wrote about a case study where I had to justify the use of single sourcing at the organisation I was working at the time.&lt;/p&gt;&#xA;&lt;p&gt;To summarise how the single sourcing strategy worked at the organisation was:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Avoided issues with duplication of content. All my content resided in one location, reducing inconsistencies.&lt;/li&gt;&#xA;&lt;li&gt;Set a consistent look and feel across all the documentation projects.&lt;/li&gt;&#xA;&lt;li&gt;Was published for different audiences with different information requirements.&lt;/li&gt;&#xA;&lt;li&gt;Allowed me to adapt quickly to changing requirements or ad-hoc requests.&lt;/li&gt;&#xA;&lt;li&gt;Had complete control over content as well as output format and design.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>SDK documentation</title>
       <link>https://swapnilogale.github.io/projects/creations/sdkdocs/</link>
       <pubDate>Thu, 30 Apr 2020 21:57:42 +1000</pubDate>
-      
       <guid>https://swapnilogale.github.io/projects/creations/sdkdocs/</guid>
-      <description>Context Zip simplifies how you pay everywhere and save every day by offering fast, fair and seamless payment solutions online and in-store.
-Problem I was contacted by one of the Zip development teams to assist with editing and creating content for their Zip SDK developer documentation hub.
-Contribution I collaborated with the Zip team to review their existing SDK documentation for iOS and Android devices, and make recommendations on style, voice and tone, to make it clearer to understand.</description>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zip.co/&#34;&gt;Zip&lt;/a&gt; simplifies how you pay everywhere and save every day by offering fast, fair and seamless payment solutions online and in-store.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;I was contacted by one of the Zip development teams to assist with editing and creating content for their Zip SDK developer documentation hub.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contribution&#34;&gt;Contribution&lt;/h3&gt;&#xA;&lt;p&gt;I collaborated with the Zip team to review their existing SDK documentation for iOS and Android devices, and make recommendations on style, voice and tone, to make it clearer to understand.&#xA;&lt;img src=&#34;https://swapnilogale.github.io/img/zip.png&#34; alt=&#34;Zip SDK Developer Hub&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

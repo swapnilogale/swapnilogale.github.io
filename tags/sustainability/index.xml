@@ -4,18 +4,16 @@
     <title>Sustainability on Swapnil Ogale Portfolio</title>
     <link>https://swapnilogale.github.io/tags/sustainability/</link>
     <description>Recent content in Sustainability on Swapnil Ogale Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making content sustainable</title>
       <link>https://swapnilogale.github.io/publications/makedocssustainable/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://swapnilogale.github.io/publications/makedocssustainable/</guid>
-      <description>In this talk, I question how to make our content sustainable, especially now when our content is growing at an unprecedented rate. Just when we thought we had a handle on user needs, that seems to be changing every minute. What does it really mean to create sustainable content and how do we achieve this?
- Docs and processes are a mess, but they don’t have to be. Reuse. Reduce. Recycle.</description>
+      <description>&lt;p&gt;In this talk, I question how to make our content sustainable, especially now when our content is growing at an unprecedented rate. Just when we thought we had a handle on user needs, that seems to be changing every minute. What does it really mean to create sustainable content and how do we achieve this?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docs and processes are a mess, but they don’t have to be.&lt;/li&gt;&#xA;&lt;li&gt;Reuse. Reduce. Recycle.&lt;/li&gt;&#xA;&lt;li&gt;Think content first.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>
