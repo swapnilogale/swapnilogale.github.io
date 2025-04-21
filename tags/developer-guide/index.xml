@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer Guide on Swapnil Ogale Portfolio</title>
+    <link>https://swapnilogale.github.io/tags/developer-guide/</link>
+    <description>Recent content in Developer Guide on Swapnil Ogale Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://swapnilogale.github.io/tags/developer-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical implementation guides</title>
+      <link>https://swapnilogale.github.io/projects/creations/implementationguides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/projects/creations/implementationguides/</guid>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a Technical Writer in the AWS Solutions Engineering team in the Australia, Pacific and Japan (APJ) region, my role was to collaborate with developers and solution builders to document our solutions for our customers. One of the first solutions I documented was the Automated Data Analytics on AWS solution.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://aws.amazon.com/solutions/implementations/automated-data-analytics-on-aws/&#34;&gt;Automated Data Analytics on AWS&lt;/a&gt; solution provides an end-to-end data platform for ingesting, transforming, managing and querying datasets. This helps analysts and business users manage and gain insights from data without deep technical experience using Amazon Web Services (AWS).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

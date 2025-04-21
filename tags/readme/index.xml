@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>README on Swapnil Ogale Portfolio</title>
+    <link>https://swapnilogale.github.io/tags/readme/</link>
+    <description>Recent content in README on Swapnil Ogale Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/tags/readme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDD Melbourne 2025: The Lost Art of good README documentation</title>
+      <link>https://swapnilogale.github.io/publications/readmes/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/readmes/</guid>
+      <description>&lt;p&gt;My talk covered a few things around why the developer experience is askew, especially around open source projects, what it means to create good technical content, and deconstructing the anatomy of a good README.&lt;/p&gt;&#xA;&lt;p&gt;While it was a short session and there was no opportunity for Q&amp;amp;A, people provided good feedback at the end of the talk and even appreciated the fact that there was a talk around docs at the conference. READMEs are deceptively simple files, yet an incredibly powerful mechanism for delivering value.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

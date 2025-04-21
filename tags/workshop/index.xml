@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Swapnil Ogale Portfolio</title>
+    <link>https://swapnilogale.github.io/tags/workshop/</link>
+    <description>Recent content in Workshop on Swapnil Ogale Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TechCommNZ 2024 (Workshop): Building an online portfolio in 90 minutes</title>
+      <link>https://swapnilogale.github.io/publications/onlineportfolio/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/onlineportfolio/</guid>
+      <description>&lt;p&gt;The idea was to expose folks to a docs-as-code methodology, along with getting their own online version of a portfolio created, something they could keep working on, and experimenting.&lt;/p&gt;&#xA;&lt;p&gt;My workshop covered the basics of why it is important to have an online portfolio, maintainability and accessibility, and the tools needed to build a portfolio with minimal to no costs (other than the effort of creating and updating it).&lt;/p&gt;&#xA;&lt;h3 id=&#34;feedback&#34;&gt;Feedback&lt;/h3&gt;&#xA;&lt;p&gt;Some of the feedback I received from the audience was:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

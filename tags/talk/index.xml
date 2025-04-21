@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk on Swapnil Ogale Portfolio</title>
+    <link>https://swapnilogale.github.io/tags/talk/</link>
+    <description>Recent content in Talk on Swapnil Ogale Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDD Melbourne 2025: The Lost Art of good README documentation</title>
+      <link>https://swapnilogale.github.io/publications/readmes/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/readmes/</guid>
+      <description>&lt;p&gt;My talk covered a few things around why the developer experience is askew, especially around open source projects, what it means to create good technical content, and deconstructing the anatomy of a good README.&lt;/p&gt;&#xA;&lt;p&gt;While it was a short session and there was no opportunity for Q&amp;amp;A, people provided good feedback at the end of the talk and even appreciated the fact that there was a talk around docs at the conference. READMEs are deceptively simple files, yet an incredibly powerful mechanism for delivering value.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TechCommNZ 2024: Thank God, You&#39;re Here</title>
+      <link>https://swapnilogale.github.io/publications/docsadvocacy/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/docsadvocacy/</guid>
+      <description>&lt;p&gt;In this talk, I talked about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Agreeing that we have an advocacy problem.&lt;/li&gt;&#xA;&lt;li&gt;The art of advocacy and why we need to advocate?&lt;/li&gt;&#xA;&lt;li&gt;Identifying some skills that we can pick up to demonstrate value.&lt;/li&gt;&#xA;&lt;li&gt;Things I’ve done, that helped me influence beyond my role.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;feedback&#34;&gt;Feedback&lt;/h3&gt;&#xA;&lt;p&gt;Some of the feedback I received from the audience was:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Swapnil did a great job at explaining why documentation advocacy is important and can help future-proof our roles. His presentation was clean and crisp.&lt;/li&gt;&#xA;&lt;li&gt;Really got me thinking about how I can work to raise the profile of technical writing, rather than waiting for someone else to do it.&lt;/li&gt;&#xA;&lt;li&gt;This is a topic we could all do better at so it was good here Swapnil&amp;rsquo;s approach.&lt;/li&gt;&#xA;&lt;li&gt;The energy was great, loved the layout of the slides - really engaging.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>APIDays Australia 2021: The secret sauce behind successful APIs</title>
+      <link>https://swapnilogale.github.io/publications/apidays/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/apidays/</guid>
+      <description>&lt;p&gt;In this talk, I spoke about the secret sauce behind successful APIs - documentation. This talk covered:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Problem areas with API projects from experience,&lt;/li&gt;&#xA;&lt;li&gt;An API&amp;rsquo;s journey from a producer as well as the consumer perspectives, and&lt;/li&gt;&#xA;&lt;li&gt;How to use documentation along each step of the API lifecycle.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Write the Docs Portland 2021: Putting the tech in technical writer</title>
+      <link>https://swapnilogale.github.io/publications/techwriter/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/techwriter/</guid>
+      <description>&lt;p&gt;I take the audience through a few ideas and examples (both personal and community sourced) for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Looking under the hood (of WYSIWYG tools),&lt;/li&gt;&#xA;&lt;li&gt;Learning just enough Git,&lt;/li&gt;&#xA;&lt;li&gt;Thinking in plain text,&lt;/li&gt;&#xA;&lt;li&gt;Templates, toolchain and processes, and&lt;/li&gt;&#xA;&lt;li&gt;Automation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FQ7DkPOw3Cc&#34;&gt;&lt;img src=&#34;https://swapnilogale.github.io/img/tw-video.jpg&#34; alt=&#34;Putting the tech in technical writer&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TechCommNZ 2019: Making content sustainable</title>
+      <link>https://swapnilogale.github.io/publications/makedocssustainable/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/makedocssustainable/</guid>
+      <description>&lt;p&gt;In this talk, I question how to make our content sustainable, especially now when our content is growing at an unprecedented rate. Just when we thought we had a handle on user needs, that seems to be changing every minute. What does it really mean to create sustainable content and how do we achieve this?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docs and processes are a mess, but they don’t have to be.&lt;/li&gt;&#xA;&lt;li&gt;Reuse. Reduce. Recycle.&lt;/li&gt;&#xA;&lt;li&gt;Think content first.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Madworld 2018: What&#39;s the deal with Release notes?</title>
+      <link>https://swapnilogale.github.io/publications/releasenotes/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/releasenotes/</guid>
+      <description>&lt;p&gt;Product managers swear by them, development managers are keen on producing them and quite so often your developers or engineers will help (grudgingly) craft them.&lt;/p&gt;&#xA;&lt;p&gt;Release notes are everywhere, be it a product or a process. They are quite often your first point of communication with customers eager to know what’s new or fixed in your product or process. In some instances, they also become the most frequently or commonly accessed content on your documentation site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Write the Docs Prague 2016: When bad screenshots happen to good writers</title>
+      <link>https://swapnilogale.github.io/publications/screenshots/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/screenshots/</guid>
+      <description>&lt;p&gt;&amp;ldquo;You have your content moving at a swift pace, your documents are getting reviewed in a timely fashion (surprise!) and you are nicely heading towards your release milestone.&lt;/p&gt;&#xA;&lt;p&gt;The only thing missing are some key screenshots that you need to put in before you publish your documentation. What you get instead are some hideous images posing as screenshots, that were captured randomly, bears no resemblance to your instructions and would make no sense whatsoever to the end user.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

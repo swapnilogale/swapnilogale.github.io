@@ -6,8 +6,29 @@
     <description>Recent content in Presentations and publications on Swapnil Ogale Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://swapnilogale.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDD Melbourne 2025: The Lost Art of good README documentation</title>
+      <link>https://swapnilogale.github.io/publications/readmes/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/readmes/</guid>
+      <description>&lt;p&gt;My talk covered a few things around why the developer experience is askew, especially around open source projects, what it means to create good technical content, and deconstructing the anatomy of a good README.&lt;/p&gt;&#xA;&lt;p&gt;While it was a short session and there was no opportunity for Q&amp;amp;A, people provided good feedback at the end of the talk and even appreciated the fact that there was a talk around docs at the conference. READMEs are deceptively simple files, yet an incredibly powerful mechanism for delivering value.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TechCommNZ 2024 (Workshop): Building an online portfolio in 90 minutes</title>
+      <link>https://swapnilogale.github.io/publications/onlineportfolio/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/onlineportfolio/</guid>
+      <description>&lt;p&gt;The idea was to expose folks to a docs-as-code methodology, along with getting their own online version of a portfolio created, something they could keep working on, and experimenting.&lt;/p&gt;&#xA;&lt;p&gt;My workshop covered the basics of why it is important to have an online portfolio, maintainability and accessibility, and the tools needed to build a portfolio with minimal to no costs (other than the effort of creating and updating it).&lt;/p&gt;&#xA;&lt;h3 id=&#34;feedback&#34;&gt;Feedback&lt;/h3&gt;&#xA;&lt;p&gt;Some of the feedback I received from the audience was:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TechCommNZ 2024: Thank God, You&#39;re Here</title>
+      <link>https://swapnilogale.github.io/publications/docsadvocacy/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/docsadvocacy/</guid>
+      <description>&lt;p&gt;In this talk, I talked about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Agreeing that we have an advocacy problem.&lt;/li&gt;&#xA;&lt;li&gt;The art of advocacy and why we need to advocate?&lt;/li&gt;&#xA;&lt;li&gt;Identifying some skills that we can pick up to demonstrate value.&lt;/li&gt;&#xA;&lt;li&gt;Things I’ve done, that helped me influence beyond my role.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;feedback&#34;&gt;Feedback&lt;/h3&gt;&#xA;&lt;p&gt;Some of the feedback I received from the audience was:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Swapnil did a great job at explaining why documentation advocacy is important and can help future-proof our roles. His presentation was clean and crisp.&lt;/li&gt;&#xA;&lt;li&gt;Really got me thinking about how I can work to raise the profile of technical writing, rather than waiting for someone else to do it.&lt;/li&gt;&#xA;&lt;li&gt;This is a topic we could all do better at so it was good here Swapnil&amp;rsquo;s approach.&lt;/li&gt;&#xA;&lt;li&gt;The energy was great, loved the layout of the slides - really engaging.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Technical Writing Process, 2nd Edition</title>
       <link>https://swapnilogale.github.io/publications/techwritingbook/</link>
@@ -27,10 +48,10 @@
       <link>https://swapnilogale.github.io/publications/insidetechcomm/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://swapnilogale.github.io/publications/insidetechcomm/</guid>
-      <description>&lt;p&gt;I chatted with the host of Inside TechComm about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What does the technical communication landscape look like in Australia?&lt;/li&gt;&#xA;&lt;li&gt;What is a technical writer advocate?&lt;/li&gt;&#xA;&lt;li&gt;How did Swapnil perform his own tech comm retrospective to elevate his role and make it visible?&lt;/li&gt;&#xA;&lt;li&gt;What is the Amazon narrative, and how can someone use this narrative before starting a project?&lt;/li&gt;&#xA;&lt;li&gt;What are some strategies to raise the profile of a tech writer at a company and beyond?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;I chatted with the host of Inside TechComm about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What does the technical communication landscape look like in Australia?&lt;/li&gt;&#xA;&lt;li&gt;What is a technical writer advocate?&lt;/li&gt;&#xA;&lt;li&gt;How I perform my own tech comm retrospective to elevate his role and make it visible?&lt;/li&gt;&#xA;&lt;li&gt;What is the Amazon narrative, and how can someone use this narrative before starting a project?&lt;/li&gt;&#xA;&lt;li&gt;What are some strategies to raise the profile of a tech writer at a company and beyond?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>The secret sauce behind successful APIs</title>
+      <title>APIDays Australia 2021: The secret sauce behind successful APIs</title>
       <link>https://swapnilogale.github.io/publications/apidays/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://swapnilogale.github.io/publications/apidays/</guid>
@@ -44,28 +65,28 @@
       <description>&lt;p&gt;I chatted with the host of The Not Boring Tech Writer about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Write the Docs Australia community&lt;/li&gt;&#xA;&lt;li&gt;Organising meetups and conference for the Write the Docs Australia community&lt;/li&gt;&#xA;&lt;li&gt;Why it is necessary to advocate for good documentation practices&lt;/li&gt;&#xA;&lt;li&gt;What my role as a Technical Writer Advocate is all about&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Putting the tech in technical writer</title>
+      <title>Write the Docs Portland 2021: Putting the tech in technical writer</title>
       <link>https://swapnilogale.github.io/publications/techwriter/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://swapnilogale.github.io/publications/techwriter/</guid>
       <description>&lt;p&gt;I take the audience through a few ideas and examples (both personal and community sourced) for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Looking under the hood (of WYSIWYG tools),&lt;/li&gt;&#xA;&lt;li&gt;Learning just enough Git,&lt;/li&gt;&#xA;&lt;li&gt;Thinking in plain text,&lt;/li&gt;&#xA;&lt;li&gt;Templates, toolchain and processes, and&lt;/li&gt;&#xA;&lt;li&gt;Automation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FQ7DkPOw3Cc&#34;&gt;&lt;img src=&#34;https://swapnilogale.github.io/img/tw-video.jpg&#34; alt=&#34;Putting the tech in technical writer&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Making content sustainable</title>
+      <title>TechCommNZ 2019: Making content sustainable</title>
       <link>https://swapnilogale.github.io/publications/makedocssustainable/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://swapnilogale.github.io/publications/makedocssustainable/</guid>
       <description>&lt;p&gt;In this talk, I question how to make our content sustainable, especially now when our content is growing at an unprecedented rate. Just when we thought we had a handle on user needs, that seems to be changing every minute. What does it really mean to create sustainable content and how do we achieve this?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docs and processes are a mess, but they don’t have to be.&lt;/li&gt;&#xA;&lt;li&gt;Reuse. Reduce. Recycle.&lt;/li&gt;&#xA;&lt;li&gt;Think content first.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>What&#39;s the deal with Release notes?</title>
+      <title>Madworld 2018: What&#39;s the deal with Release notes?</title>
       <link>https://swapnilogale.github.io/publications/releasenotes/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       <guid>https://swapnilogale.github.io/publications/releasenotes/</guid>
       <description>&lt;p&gt;Product managers swear by them, development managers are keen on producing them and quite so often your developers or engineers will help (grudgingly) craft them.&lt;/p&gt;&#xA;&lt;p&gt;Release notes are everywhere, be it a product or a process. They are quite often your first point of communication with customers eager to know what’s new or fixed in your product or process. In some instances, they also become the most frequently or commonly accessed content on your documentation site.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>When bad screenshots happen to good writers</title>
+      <title>Write the Docs Prague 2016: When bad screenshots happen to good writers</title>
       <link>https://swapnilogale.github.io/publications/screenshots/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://swapnilogale.github.io/publications/screenshots/</guid>

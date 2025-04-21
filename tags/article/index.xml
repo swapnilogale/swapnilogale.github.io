@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article on Swapnil Ogale Portfolio</title>
+    <link>https://swapnilogale.github.io/tags/article/</link>
+    <description>Recent content in Article on Swapnil Ogale Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://swapnilogale.github.io/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redocly for technical writers</title>
+      <link>https://swapnilogale.github.io/publications/redoclypost/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/redoclypost/</guid>
+      <description>&lt;p&gt;As part of my Technical Writer Advocate role at Redocly, I was often asked by other technical writers in the community about they could use Redocly for their API documentation.&lt;/p&gt;&#xA;&lt;p&gt;I wrote about my experiences with Redocly, and how other technical writers could get started with Redocly products to create awesome API documentation. This article captures the workflow for technical writers wanting to get the best out of Redocly products.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Art of the Review</title>
+      <link>https://swapnilogale.github.io/publications/reviewpost/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/reviewpost/</guid>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://www.knowledgeowl.com/&#34;&gt;KnowledgeOwl&lt;/a&gt; to write a guest post for their blog.&lt;/p&gt;&#xA;&lt;p&gt;I wrote about why proper reviews are vital to the documentation process, how to plan for them, various kinds of reviews, and how to provide to feedback (if you are the one reviewing someone else&amp;rsquo;s docs!).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How API docs became my silver lining</title>
+      <link>https://swapnilogale.github.io/publications/apipost/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/apipost/</guid>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://www.knowledgeowl.com/&#34;&gt;KnowledgeOwl&lt;/a&gt; to write a guest post for their blog.&lt;/p&gt;&#xA;&lt;p&gt;I wrote about my experiences with starting with API documentation, growing my skills in this area and how API documentation offers an exciting and challenging space for technical writers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Justifying the use of Single Sourcing</title>
+      <link>https://swapnilogale.github.io/publications/madcapflare/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://swapnilogale.github.io/publications/madcapflare/</guid>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://www.madcapsoftware.com/&#34;&gt;Madcap Software&lt;/a&gt; to write a guest post for their blog. I wrote about a case study where I had to justify the use of single sourcing at the organisation I was working at the time.&lt;/p&gt;&#xA;&lt;p&gt;To summarise how the single sourcing strategy worked at the organisation was:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Avoided issues with duplication of content. All my content resided in one location, reducing inconsistencies.&lt;/li&gt;&#xA;&lt;li&gt;Set a consistent look and feel across all the documentation projects.&lt;/li&gt;&#xA;&lt;li&gt;Was published for different audiences with different information requirements.&lt;/li&gt;&#xA;&lt;li&gt;Allowed me to adapt quickly to changing requirements or ad-hoc requests.&lt;/li&gt;&#xA;&lt;li&gt;Had complete control over content as well as output format and design.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
